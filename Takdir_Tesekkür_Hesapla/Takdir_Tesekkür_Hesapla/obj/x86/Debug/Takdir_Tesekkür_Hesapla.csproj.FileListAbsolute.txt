@@ -1,0 +1,68 @@
+C:\Users\Enes Okur\Desktop\NTP Dersi Yapılan Prgoramlar\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\bin\Debug\Takdir_Tesekkür_Hesapla.exe
+C:\Users\Enes Okur\Desktop\NTP Dersi Yapılan Prgoramlar\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\bin\Debug\Takdir_Tesekkür_Hesapla.pdb
+C:\Users\Enes Okur\Desktop\NTP Dersi Yapılan Prgoramlar\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla.frmGiris.resources
+C:\Users\Enes Okur\Desktop\NTP Dersi Yapılan Prgoramlar\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla.Properties.Resources.resources
+C:\Users\Enes Okur\Desktop\NTP Dersi Yapılan Prgoramlar\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla.csproj.GenerateResource.Cache
+C:\Users\Enes Okur\Desktop\NTP Dersi Yapılan Prgoramlar\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla.exe
+C:\Users\Enes Okur\Desktop\NTP Dersi Yapılan Prgoramlar\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla.pdb
+C:\Users\Enes Okur\Desktop\NTP Dersi Yapılan Prgoramlar\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla.SecenekSeviye.resources
+C:\Users\Enes Okur\Desktop\NTP Dersi Yapılan Prgoramlar\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla.Lise.resources
+C:\Users\Enes Okur\Desktop\NTP Dersi Yapılan Prgoramlar\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla.OrtaOkul.resources
+C:\Users\Enes Okur\Desktop\NTP Dersi Yapılan Prgoramlar\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla.csprojResolveAssemblyReference.cache
+C:\Users\Enes Okur\Desktop\NTP Dersi Yapılan Prgoramlar\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla.OrtaOkulHesap.resources
+C:\Users\Enes Okur\Desktop\NTP Dersi Yapılan Prgoramlar\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla.ImamHatipOrtaOkul.resources
+C:\Users\Enes Okur\Desktop\NTP Dersi Yapılan Prgoramlar\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla._5_Sinif.resources
+C:\Users\Enes Okur\Desktop\NTP Dersi Yapılan Prgoramlar\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla._6_Sinif.resources
+C:\Users\Enes Okur\Desktop\NTP Dersi Yapılan Prgoramlar\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla._7_Sinif.resources
+C:\Users\Enes Okur\Desktop\NTP Dersi Yapılan Prgoramlar\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla._8_Sinif.resources
+C:\Users\Enes Okur\Desktop\NTP Dersi Yapılan Prgoramlar\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla.Lgs.resources
+C:\Users\Enes Okur\Desktop\NTP Dersi Yapılan Prgoramlar\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla._5_ImamHatip.resources
+C:\Users\Enes Okur\Desktop\NTP Dersi Yapılan Prgoramlar\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla._6_ImamHatip.resources
+C:\Users\Enes Okur\Desktop\NTP Dersi Yapılan Prgoramlar\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla._7_ImamHatip.resources
+C:\Users\Enes Okur\Desktop\NTP Dersi Yapılan Prgoramlar\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla._8_ImamHatip.resources
+C:\Users\Enes Okur\Desktop\NTP Dersi Yapılan Prgoramlar\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla._10_Sinif.resources
+C:\Users\Enes Okur\Desktop\NTP Dersi Yapılan Prgoramlar\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla._11_Sinif.resources
+C:\Users\Enes Okur\Desktop\NTP Dersi Yapılan Prgoramlar\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla._12_Sinif.resources
+C:\Users\Enes Okur\Desktop\NTP Dersi Yapılan Prgoramlar\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla._9_Sinif.resources
+C:\Users\Enes Okur\Desktop\NTP Dersi Yapılan Prgoramlar\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla.AnadoluLisesi.resources
+C:\Users\Enes Okur\Desktop\NTP Dersi Yapılan Prgoramlar\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla.Yks.resources
+C:\Users\Enes Okur\Desktop\NTP Dersi Yapılan Prgoramlar\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla._9_Sinif_Imam.resources
+C:\Users\Enes Okur\Desktop\NTP Dersi Yapılan Prgoramlar\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla.ImamHatipLisesi.resources
+C:\Users\Enes Okur\Desktop\NTP Dersi Yapılan Prgoramlar\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla._10_Sinif_Imam.resources
+C:\Users\Enes Okur\Desktop\NTP Dersi Yapılan Prgoramlar\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla._11_Sinif_Imam.resources
+C:\Users\Enes Okur\Desktop\NTP Dersi Yapılan Prgoramlar\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla._12_Sinif_Imam.resources
+C:\Users\Enes Okur\Desktop\NTP Dersi Yapılan Prgoramlar\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla._9_Sinif_Meslek.resources
+C:\Users\ECE\Desktop\Enes - NTP Programları\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla.exe
+C:\Users\ECE\Desktop\Enes - NTP Programları\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla.pdb
+C:\Users\ECE\Desktop\Enes - NTP Programları\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\bin\Debug\Takdir_Tesekkür_Hesapla.exe
+C:\Users\ECE\Desktop\Enes - NTP Programları\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\bin\Debug\Takdir_Tesekkür_Hesapla.pdb
+C:\Users\ECE\Desktop\Enes - NTP Programları\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla.csprojResolveAssemblyReference.cache
+C:\Users\ECE\Desktop\Enes - NTP Programları\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla._10_Sinif.resources
+C:\Users\ECE\Desktop\Enes - NTP Programları\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla._10_Sinif_Imam.resources
+C:\Users\ECE\Desktop\Enes - NTP Programları\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla._11_Sinif.resources
+C:\Users\ECE\Desktop\Enes - NTP Programları\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla._11_Sinif_Imam.resources
+C:\Users\ECE\Desktop\Enes - NTP Programları\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla._12_Sinif.resources
+C:\Users\ECE\Desktop\Enes - NTP Programları\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla._12_Sinif_Imam.resources
+C:\Users\ECE\Desktop\Enes - NTP Programları\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla._5_ImamHatip.resources
+C:\Users\ECE\Desktop\Enes - NTP Programları\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla._5_Sinif.resources
+C:\Users\ECE\Desktop\Enes - NTP Programları\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla._6_ImamHatip.resources
+C:\Users\ECE\Desktop\Enes - NTP Programları\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla._6_Sinif.resources
+C:\Users\ECE\Desktop\Enes - NTP Programları\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla._7_ImamHatip.resources
+C:\Users\ECE\Desktop\Enes - NTP Programları\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla._7_Sinif.resources
+C:\Users\ECE\Desktop\Enes - NTP Programları\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla._8_ImamHatip.resources
+C:\Users\ECE\Desktop\Enes - NTP Programları\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla._9_Sinif_Meslek.resources
+C:\Users\ECE\Desktop\Enes - NTP Programları\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla._9_Sinif.resources
+C:\Users\ECE\Desktop\Enes - NTP Programları\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla._9_Sinif_Imam.resources
+C:\Users\ECE\Desktop\Enes - NTP Programları\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla.AnadoluLisesi.resources
+C:\Users\ECE\Desktop\Enes - NTP Programları\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla.frmGiris.resources
+C:\Users\ECE\Desktop\Enes - NTP Programları\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla.ImamHatipLisesi.resources
+C:\Users\ECE\Desktop\Enes - NTP Programları\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla.ImamHatipOrtaOkul.resources
+C:\Users\ECE\Desktop\Enes - NTP Programları\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla.Lgs.resources
+C:\Users\ECE\Desktop\Enes - NTP Programları\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla.Lise.resources
+C:\Users\ECE\Desktop\Enes - NTP Programları\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla.OrtaOkul.resources
+C:\Users\ECE\Desktop\Enes - NTP Programları\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla.OrtaOkulHesap.resources
+C:\Users\ECE\Desktop\Enes - NTP Programları\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla.Properties.Resources.resources
+C:\Users\ECE\Desktop\Enes - NTP Programları\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla.SecenekSeviye.resources
+C:\Users\ECE\Desktop\Enes - NTP Programları\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla._8_Sinif.resources
+C:\Users\ECE\Desktop\Enes - NTP Programları\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla.Yks.resources
+C:\Users\ECE\Desktop\Enes - NTP Programları\Takdir_Tesekkür_Hesapla\Takdir_Tesekkür_Hesapla\obj\x86\Debug\Takdir_Tesekkür_Hesapla.csproj.GenerateResource.Cache

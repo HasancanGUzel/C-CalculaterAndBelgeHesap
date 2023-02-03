@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{36A82B8D-2F7F-4FF5-8B39-9623E8913FA7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Takdir_Tesekkür_Hesapla</RootNamespace>
+    <AssemblyName>Takdir_Tesekkür_Hesapla</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="10_Sinif.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="10_Sinif.Designer.cs">
+      <DependentUpon>10_Sinif.cs</DependentUpon>
+    </Compile>
+    <Compile Include="10_Sinif_Imam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="10_Sinif_Imam.Designer.cs">
+      <DependentUpon>10_Sinif_Imam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="11_Sinif.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="11_Sinif.Designer.cs">
+      <DependentUpon>11_Sinif.cs</DependentUpon>
+    </Compile>
+    <Compile Include="11_Sinif_Imam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="11_Sinif_Imam.Designer.cs">
+      <DependentUpon>11_Sinif_Imam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="12_Sinif.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="12_Sinif.Designer.cs">
+      <DependentUpon>12_Sinif.cs</DependentUpon>
+    </Compile>
+    <Compile Include="12_Sinif_Imam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="12_Sinif_Imam.Designer.cs">
+      <DependentUpon>12_Sinif_Imam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="5_ImamHatip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="5_ImamHatip.Designer.cs">
+      <DependentUpon>5_ImamHatip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="5_Sinif.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="5_Sinif.Designer.cs">
+      <DependentUpon>5_Sinif.cs</DependentUpon>
+    </Compile>
+    <Compile Include="6_ImamHatip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="6_ImamHatip.Designer.cs">
+      <DependentUpon>6_ImamHatip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="6_Sinif.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="6_Sinif.Designer.cs">
+      <DependentUpon>6_Sinif.cs</DependentUpon>
+    </Compile>
+    <Compile Include="7_ImamHatip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="7_ImamHatip.Designer.cs">
+      <DependentUpon>7_ImamHatip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="7_Sinif.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="7_Sinif.Designer.cs">
+      <DependentUpon>7_Sinif.cs</DependentUpon>
+    </Compile>
+    <Compile Include="8_ImamHatip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="8_ImamHatip.Designer.cs">
+      <DependentUpon>8_ImamHatip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="9.Sinif_Meslek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="9.Sinif_Meslek.Designer.cs">
+      <DependentUpon>9.Sinif_Meslek.cs</DependentUpon>
+    </Compile>
+    <Compile Include="9_Sinif.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="9_Sinif.Designer.cs">
+      <DependentUpon>9_Sinif.cs</DependentUpon>
+    </Compile>
+    <Compile Include="9_Sinif_Imam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="9_Sinif_Imam.Designer.cs">
+      <DependentUpon>9_Sinif_Imam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AnadoluLisesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnadoluLisesi.Designer.cs">
+      <DependentUpon>AnadoluLisesi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGiris.Designer.cs">
+      <DependentUpon>frmGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImamHatipLisesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImamHatipLisesi.Designer.cs">
+      <DependentUpon>ImamHatipLisesi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImamHatipOrtaOkul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImamHatipOrtaOkul.Designer.cs">
+      <DependentUpon>ImamHatipOrtaOkul.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lgs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lgs.Designer.cs">
+      <DependentUpon>Lgs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lise.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lise.Designer.cs">
+      <DependentUpon>Lise.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrtaOkul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrtaOkul.Designer.cs">
+      <DependentUpon>OrtaOkul.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrtaokulDerslikler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrtaokulDerslikler.Designer.cs">
+      <DependentUpon>OrtaokulDerslikler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SecenekSeviye.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SecenekSeviye.Designer.cs">
+      <DependentUpon>SecenekSeviye.cs</DependentUpon>
+    </Compile>
+    <Compile Include="8_Sinif.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="8_Sinif.Designer.cs">
+      <DependentUpon>8_Sinif.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yks.Designer.cs">
+      <DependentUpon>Yks.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="10_Sinif.resx">
+      <DependentUpon>10_Sinif.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="10_Sinif_Imam.resx">
+      <DependentUpon>10_Sinif_Imam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="11_Sinif.resx">
+      <DependentUpon>11_Sinif.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="11_Sinif_Imam.resx">
+      <DependentUpon>11_Sinif_Imam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="12_Sinif.resx">
+      <DependentUpon>12_Sinif.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="12_Sinif_Imam.resx">
+      <DependentUpon>12_Sinif_Imam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="5_ImamHatip.resx">
+      <DependentUpon>5_ImamHatip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="5_Sinif.resx">
+      <DependentUpon>5_Sinif.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="6_ImamHatip.resx">
+      <DependentUpon>6_ImamHatip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="6_Sinif.resx">
+      <DependentUpon>6_Sinif.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="7_ImamHatip.resx">
+      <DependentUpon>7_ImamHatip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="7_Sinif.resx">
+      <DependentUpon>7_Sinif.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="8_ImamHatip.resx">
+      <DependentUpon>8_ImamHatip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="9.Sinif_Meslek.resx">
+      <DependentUpon>9.Sinif_Meslek.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="9_Sinif.resx">
+      <DependentUpon>9_Sinif.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="9_Sinif_Imam.resx">
+      <DependentUpon>9_Sinif_Imam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnadoluLisesi.resx">
+      <DependentUpon>AnadoluLisesi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGiris.resx">
+      <DependentUpon>frmGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImamHatipLisesi.resx">
+      <DependentUpon>ImamHatipLisesi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImamHatipOrtaOkul.resx">
+      <DependentUpon>ImamHatipOrtaOkul.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lgs.resx">
+      <DependentUpon>Lgs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lise.resx">
+      <DependentUpon>Lise.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrtaOkul.resx">
+      <DependentUpon>OrtaOkul.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrtaokulDerslikler.resx">
+      <DependentUpon>OrtaokulDerslikler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SecenekSeviye.resx">
+      <DependentUpon>SecenekSeviye.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="8_Sinif.resx">
+      <DependentUpon>8_Sinif.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yks.resx">
+      <DependentUpon>Yks.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\meb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\back.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\back1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\coloured-summer-background_1048-2276.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\indir.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\anasayfa-butonu-png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Go-back-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\back-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imam hatip.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\trash-icon.png" />
+    <None Include="Resources\bg-1-full.jpg" />
+    <None Include="bin\Debug\unnamed.jpg" />
+    <None Include="bin\Debug\icon.png" />
+    <None Include="bin\Debug\download.png" />
+    <None Include="bin\Debug\gradient-blur-abstract-hd-wallpaper-1920x1080-2384.png" />
+    <None Include="bin\Debug\111.jpg" />
+    <None Include="bin\Debug\depositphotos_83402230-stock-illustration-blue-dots-background-creative-design.jpg" />
+    <None Include="bin\Debug\pano.jpg" />
+    <None Include="bin\Debug\pexels-photo-326311.jpeg" />
+    <None Include="bin\Debug\Save-icon.png" />
+    <Content Include="bin\Debug\takdir.jpg" />
+    <Content Include="bin\Debug\teşekkür.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
